@@ -11,6 +11,7 @@ import java.util.ArrayList;
  *
  * @author dell
  */
+//voila notre scenario
 public class Scenario {
     private ArrayList<Effet> mesEffets ; 
     public void appliquerscenario(Bandeau b, int nbfois){
