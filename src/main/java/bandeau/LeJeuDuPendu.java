@@ -12,6 +12,8 @@ import java.util.Random;
  *
  * @author dell
  */
+
+//Ceci est mon commentaire - Marie-Laure
 public class LeJeuDuPendu extends Effet{
 
     public LeJeuDuPendu(int numero) {
